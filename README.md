@@ -4,6 +4,6 @@ To do phylogenetic analyses in PAUP* you need to convert your MSA-file to nexus 
 
 ## How to use
 
-´´´
-.\convert.py <file.aln> <data type = Protein or DNA>
-´´´
+```
+.\convert.py <file.aln> <data type = 'Protein' or 'DNA'>
+```
